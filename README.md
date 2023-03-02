@@ -57,6 +57,6 @@
 <!-- <a href=#><img src="contributions.svg"></a> -->
 
 <p align="center"> 
-  Visitor count<br>
+  访问次数<br>
   <img src="https://profile-counter.glitch.me/imoki/count.svg" />
 </p>
