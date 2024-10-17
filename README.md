@@ -46,7 +46,7 @@
 ## 🎉 开发维护不易，喜欢请打赏~
 <p align="center">
     <a href="https://afdian.com/a/imoku" >
-        <img src = 'https://s3.bmp.ovh/imgs/2024/09/25/f85f1628701c04f9.png'  width="350">
+        <img src = "https://imgse.com/i/pAUpcMq"  width="350">
     </a>
 </p>
 
