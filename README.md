@@ -43,12 +43,12 @@
 
 <div>
 
-## 🎉 开发维护不易，喜欢请打赏~
-<p align="center">
+
+<!-- ## 🎉 开发维护不易，喜欢请打赏~<p align="center">
     <a href="https://afdian.com/a/imoku" >
         <img src = "https://github.com/user-attachments/assets/26347f57-7e4d-4052-b1ff-d47ee04122b5"  width="350">
     </a>
-</p>
+</p> -->
 
   <div align="center">
      <!-- <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=imoki&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
